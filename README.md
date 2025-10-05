@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 -->
 
 
-## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/endo-ava/endo-ava/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## GitHub statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=endo-ava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -35,28 +39,22 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=endo-ava&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## 🏆 GitHub Trophies
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=endo-ava&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Contribution Graph
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=endo-ava&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/endo-ava/endo-ava/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=endo-ava&repo=music-theory-app&theme=tokyonight)](https://github.com/music-theory-app)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=endo-ava&repo=music-theory-app&theme=tokyonight)](https://github.com/endo-ava/music-theory-app)
 
