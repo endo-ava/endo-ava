@@ -54,7 +54,18 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=endo-ava&repo=music-theory-app&theme=tokyonight)](https://github.com/endo-ava/music-theory-app)
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/endo-ava/music-theory-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=endo-ava&repo=music-theory-app&theme=tokyonight" alt="Repo 1"/>
+      </a>
+    </td>
+    <td valign="top">
+       <a href="https://github.com/endo-ava/xenharmonic-voyager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=endo-ava&repo=xenharmonic-voyager&theme=tokyonight" alt="Repo 2"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
